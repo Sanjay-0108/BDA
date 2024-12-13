@@ -1,0 +1,50 @@
+1	Oppenheimer	2024	9	Christopher Nolan	English
+2	Killers of the Flower Moon	2024	8.7	Martin Scorsese	English
+3	Dunki	2024	8.6	Rajkumar Hirani	Hindi
+4	Project K	2024	8.4	Nag Ashwin	Telugu
+5	Salaar	2024	8.4	Prashanth Neel	Kannada
+6	Jawan	2024	8.3	Atlee	Hindi
+7	Animal	2024	8.2	Sandeep Reddy Vanga	Hindi
+8	Leo	2024	8	Lokesh Kanagaraj	Tamil
+9	Barbie	2024	7.8	Greta Gerwig	English
+10	The Marvels	2024	7.5	Nia DaCosta	English
+11	Spider-Man: Across the Spider-Verse	2023	9.1	Joaquim Dos Santos	English
+12	Dune: Part Two	2023	8.6	Denis Villeneuve	English
+13	Mission Impossible: Dead Reckoning Part One	2023	8.4	Christopher McQuarrie	English
+14	Guardians of the Galaxy Vol. 3	2023	8.2	James Gunn	English
+15	The Kerala Story	2023	8.3	Sudipto Sen	Hindi
+16	Pathaan	2023	7.9	Siddharth Anand	Hindi
+17	Adipurush	2023	7.8	Om Raut	Hindi
+18	Rocky Aur Rani Kii Prem Kahani	2023	7.6	Karan Johar	Hindi
+19	The Flash	2023	7.5	Andy Muschietti	English
+20	Fast X	2023	7	Louis Leterrier	English
+21	Kantara	2022	8.4	Rishab Shetty	Kannada
+22	Drishyam 2	2022	8.4	Abhishek Pathak	Hindi
+23	RRR	2022	8.2	S. S. Rajamouli	Telugu
+24	The Kashmir Files	2022	8.3	Vivek Agnihotri	Hindi
+25	Vikram	2022	8.4	Lokesh Kanagaraj	Tamil
+26	KGF Chapter 2	2022	8.4	Prashanth Neel	Kannada
+27	Pushpa: The Rise	2021	7.6	Sukumar	Telugu
+28	Shershaah	2021	8.4	Vishnuvardhan	Hindi
+29	Sooryavanshi	2021	6.5	Rohit Shetty	Hindi
+30	Master	2021	7.8	Lokesh Kanagaraj	Tamil
+31	Dangal	2016	8.4	Nitesh Tiwari	Hindi
+32	Sairat	2016	8.3	Nagraj Manjule	Marathi
+33	Chennai Express	2013	6	Rohit Shetty	Hindi
+34	Student of the Year	2012	5.2	Karan Johar	Hindi
+35	Singham	2011	6.8	Rohit Shetty	Hindi
+36	Zindagi Na Milegi Dobara	2011	8.1	Zoya Akhtar	Hindi
+37	PK	2014	8.1	Rajkumar Hirani	Hindi
+38	3 Idiots	2009	8.4	Rajkumar Hirani	Hindi
+39	Tumbbad	2018	8.3	Rahi Anil Barve	Hindi
+40	Raazi	2018	7.8	Meghna Gulzar	Hindi
+41	Simba	2018	6	Rohit Shetty	Hindi
+42	Bajrangi Bhaijaan	2015	8	Kabir Khan	Hindi
+43	Drishyam	2015	8.2	Nishikant Kamat	Hindi
+44	Golmaal Again	2017	5	Rohit Shetty	Hindi
+45	Gully Boy	2019	8.1	Zoya Akhtar	Hindi
+46	Kabir Singh	2019	7	Sandeep Reddy Vanga	Hindi
+47	Black Panther: Wakanda Forever	2022	7.2	Ryan Coogler	English
+48	Thor: Love and Thunder	2022	6.7	Taika Waititi	English
+49	Eternals	2021	6.3	Chloé Zhao	English
+50	Tenet	2020	7.4	Christopher Nolan	English
