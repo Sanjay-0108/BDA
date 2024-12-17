@@ -1,0 +1,6 @@
+user1    txn1    100    merchant1
+user2    txn2    200    merchant2
+user3    txn3    50     merchant1
+user1    txn4    300    merchant3
+user2    txn5    400    merchant1
+user1    txn6    588.75 merchant4
